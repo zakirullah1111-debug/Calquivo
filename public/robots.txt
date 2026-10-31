@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://calquivo.swastu1111.workers.dev/sitemap.xml

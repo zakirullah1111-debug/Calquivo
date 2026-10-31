@@ -17,4 +17,4 @@ Push to the connected main branch to trigger deployment. A Workers project uses 
 Final calculator uses normalized completed-work average. Replacement model assumes equally weighted eligible midterms, higher-only replacement of one lowest exam, and a separately weighted final. Weighted calculator drops lowest percentages, not Canvas points-impact drops.
 
 ## Before promotion
-Verify examples against intended grading policies with student/instructor reviewers. Confirm production URL and add canonical URLs and sitemap for that origin. No custom domain is assumed yet. Add advertising/analytics only with an updated privacy notice and applicable consent handling. No ad or revenue claims are made.
+Verify examples against intended grading policies with student/instructor reviewers. Current origin: https://calquivo.swastu1111.workers.dev/. Update scripts/seo.mjs and run npm run seo when changing the domain. See LAUNCH-PLAN.md for the next milestones. Add advertising/analytics only with an updated privacy notice and applicable consent handling. No ad or revenue claims are made.
